@@ -146,3 +146,31 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_39.jpg" /></kbd>
 
 <kbd><img src="images/sausage_40.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a tennis racket hitting a sausage with the letters 'GM' and 'PP' embossed on the sausage"
+
+<kbd><img src="images/sausage_41.jpg" /></kbd>
+
+<kbd><img src="images/sausage_42.jpg" /></kbd>
+
+<kbd><img src="images/sausage_43.jpg" /></kbd>
+
+<kbd><img src="images/sausage_44.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a tennis racket hitting an exploding sausage with the letters 'GM' and 'PP' embossed on the sausage"
+
+<kbd><img src="images/sausage_45.jpg" /></kbd>
+
+<kbd><img src="images/sausage_46.jpg" /></kbd>
+
+<kbd><img src="images/sausage_47.jpg" /></kbd>
+
+<kbd><img src="images/sausage_48.jpg" /></kbd>
