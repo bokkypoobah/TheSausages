@@ -258,3 +258,31 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_71.jpg" /></kbd>
 
 <kbd><img src="images/sausage_72.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Draw an giant long sausage in the shape of an anaconda wrapped around a tree, with the letters GM and PP embossed on the sausage skin"
+
+<kbd><img src="images/sausage_73.jpg" /></kbd>
+
+<kbd><img src="images/sausage_74.jpg" /></kbd>
+
+<kbd><img src="images/sausage_75.jpg" /></kbd>
+
+<kbd><img src="images/sausage_76.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Draw an giant long sausage in the shape of an anaconda wrapped around a tree, with beady eyes and a forked tongue, and the letters GM and PP embossed on the sausage skin"
+
+<kbd><img src="images/sausage_77.jpg" /></kbd>
+
+<kbd><img src="images/sausage_78.jpg" /></kbd>
+
+<kbd><img src="images/sausage_79.jpg" /></kbd>
+
+<kbd><img src="images/sausage_80.jpg" /></kbd>
