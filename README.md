@@ -118,3 +118,31 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_31.jpg" /></kbd>
 
 <kbd><img src="images/sausage_32.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw many 'GM' and 'PP' branded weisswurst and bratwurst sausages hanging over a delicatessen counter"
+
+<kbd><img src="images/sausage_33.jpg" /></kbd>
+
+<kbd><img src="images/sausage_34.jpg" /></kbd>
+
+<kbd><img src="images/sausage_35.jpg" /></kbd>
+
+<kbd><img src="images/sausage_36.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw `it's raining sausages`, with the letters 'GM' and 'PP' embossed on the sausages"
+
+<kbd><img src="images/sausage_37.jpg" /></kbd>
+
+<kbd><img src="images/sausage_38.jpg" /></kbd>
+
+<kbd><img src="images/sausage_39.jpg" /></kbd>
+
+<kbd><img src="images/sausage_40.jpg" /></kbd>
