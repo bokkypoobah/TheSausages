@@ -202,3 +202,59 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_55.jpg" /></kbd>
 
 <kbd><img src="images/sausage_56.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a cricketer hitting a sausage with their bat, with the letters 'GM' and 'PP' embossed on the sausage"
+
+<kbd><img src="images/sausage_57.jpg" /></kbd>
+
+<kbd><img src="images/sausage_58.jpg" /></kbd>
+
+<kbd><img src="images/sausage_59.jpg" /></kbd>
+
+<kbd><img src="images/sausage_60.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a cricketer hitting an exploding sausage with their bat, with the letters 'GM' and 'PP' embossed on the sausage"
+
+<kbd><img src="images/sausage_61.jpg" /></kbd>
+
+<kbd><img src="images/sausage_62.jpg" /></kbd>
+
+<kbd><img src="images/sausage_63.jpg" /></kbd>
+
+<kbd><img src="images/sausage_64.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a fishing line being cast, with a sausage on the hook, and the letters 'GM' and 'PP' embossed on the sausage, in a dreamlike scene"
+
+<kbd><img src="images/sausage_65.jpg" /></kbd>
+
+<kbd><img src="images/sausage_66.jpg" /></kbd>
+
+<kbd><img src="images/sausage_67.jpg" /></kbd>
+
+<kbd><img src="images/sausage_68.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a fishing rod being cast, with a sausage stuck on the fishing hook, and the letters 'GM' and 'PP' embossed on the sausage, in a dreamlike scene, with glowing fireflies in a forest clearing"
+
+<kbd><img src="images/sausage_69.jpg" /></kbd>
+
+<kbd><img src="images/sausage_70.jpg" /></kbd>
+
+<kbd><img src="images/sausage_71.jpg" /></kbd>
+
+<kbd><img src="images/sausage_72.jpg" /></kbd>
