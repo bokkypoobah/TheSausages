@@ -4,7 +4,13 @@
 
 [The Sausages](https://opensea.io/collection/thesausages) NFT Collection Images and Metadata
 
-"draw moo deng eating a sausage"
+My experiments with X/Twitter Grok AI generated images, before my free image generation usage limit was used up
+
+<br />
+
+<hr />
+
+##### "draw moo deng eating a sausage"
 
 <kbd><img src="images/sausage_1.jpg" /></kbd>
 
@@ -18,7 +24,7 @@
 
 <hr />
 
-"Draw a sausage with the letter 'p' all over the skin"
+##### "Draw a sausage with the letter 'p' all over the skin"
 
 <kbd><img src="images/sausage_5.jpg" /></kbd>
 
@@ -32,7 +38,7 @@
 
 <hr />
 
-"Draw a sausage with the letters 'pp' all over the skin"
+##### "Draw a sausage with the letters 'pp' all over the skin"
 
 <kbd><img src="images/sausage_9.jpg" /></kbd>
 
@@ -46,7 +52,7 @@
 
 <hr />
 
-"meat grinder being stuffed with many strings of sausages with GM and PP embossed on the skin of the sausages, in a steampunk setting"
+##### "meat grinder being stuffed with many strings of sausages with GM and PP embossed on the skin of the sausages, in a steampunk setting"
 
 <kbd><img src="images/sausage_13.jpg" /></kbd>
 
@@ -60,7 +66,7 @@
 
 <hr />
 
-"draw a machine making sausages with the words GM and PP seared on the skin"
+##### "draw a machine making sausages with the words GM and PP seared on the skin"
 
 <kbd><img src="images/sausage_17.jpg" /></kbd>
 
@@ -74,7 +80,7 @@
 
 <hr />
 
-"draw a delicatessen serving only sausages with the words "GM" and "PP" embossed on the skins"
+##### "draw a delicatessen serving only sausages with the words "GM" and "PP" embossed on the skins"
 
 <kbd><img src="images/sausage_21.jpg" /></kbd>
 
@@ -89,7 +95,7 @@
 
 <hr />
 
-"draw a delicatessen with many many types of sausages hanging over the counter, all with the words 'GM' and 'PP' embossed on the sausage skins"
+##### "draw a delicatessen with many many types of sausages hanging over the counter, all with the words 'GM' and 'PP' embossed on the sausage skins"
 
 <kbd><img src="images/sausage_25.jpg" /></kbd>
 
@@ -98,3 +104,17 @@
 <kbd><img src="images/sausage_27.jpg" /></kbd>
 
 <kbd><img src="images/sausage_28.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw many weisswurst and bratwurst sausages hanging over a delicatessen counter, with the words 'GM' and 'PP' embossed on the sausages"
+
+<kbd><img src="images/sausage_29.jpg" /></kbd>
+
+<kbd><img src="images/sausage_30.jpg" /></kbd>
+
+<kbd><img src="images/sausage_31.jpg" /></kbd>
+
+<kbd><img src="images/sausage_32.jpg" /></kbd>
