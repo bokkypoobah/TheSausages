@@ -2,9 +2,11 @@
 
 # The Sausages
 
-[The Sausages](https://opensea.io/collection/thesausages) NFT Collection Images and Metadata
+My testing of X (Twitter) Grok AI's image generation, just made available to non-premium X users.
 
-My experiments with X/Twitter Grok AI generated images, before my free image generation usage limit was used up
+Images and metadata for [The Sausages](https://opensea.io/collection/thesausages) NFT Collection.
+
+<kbd><img src="images/drawronaldmcdonald.png" /></kbd>
 
 <br />
 
@@ -342,3 +344,17 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_95.jpg" /></kbd>
 
 <kbd><img src="images/sausage_96.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw ronald mcdonald"
+
+<kbd><img src="images/sausage_97.jpg" /></kbd>
+
+<kbd><img src="images/sausage_98.jpg" /></kbd>
+
+<kbd><img src="images/sausage_99.jpg" /></kbd>
+
+<kbd><img src="images/sausage_100.jpg" /></kbd>
