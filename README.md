@@ -300,3 +300,17 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_83.jpg" /></kbd>
 
 <kbd><img src="images/sausage_84.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Draw a megalodon shark fighting with an extremely long sausage with beady eyes and a forked tongue, with the letters GM and PP embossed all over the sausage skin"
+
+<kbd><img src="images/sausage_85.jpg" /></kbd>
+
+<kbd><img src="images/sausage_86.jpg" /></kbd>
+
+<kbd><img src="images/sausage_87.jpg" /></kbd>
+
+<kbd><img src="images/sausage_88.jpg" /></kbd>
