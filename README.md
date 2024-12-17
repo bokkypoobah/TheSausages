@@ -314,3 +314,17 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_87.jpg" /></kbd>
 
 <kbd><img src="images/sausage_88.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw moo deng the baby hippo eating a few sausages at the zoo. the sausages have skins embossed with the letters 'gm' in the gold"
+
+<kbd><img src="images/sausage_89.jpg" /></kbd>
+
+<kbd><img src="images/sausage_90.jpg" /></kbd>
+
+<kbd><img src="images/sausage_91.jpg" /></kbd>
+
+<kbd><img src="images/sausage_92.jpg" /></kbd>
