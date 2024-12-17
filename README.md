@@ -6,7 +6,7 @@ My testing of X (Twitter) Grok AI's image generation, just made available to non
 
 Images and metadata for [The Sausages](https://opensea.io/collection/thesausages) NFT Collection.
 
-<kbd><img src="images/drawronaldmcdonald.png" /></kbd>
+<kbd><img src="images/drawronaldmcdonaldsandmore.png" /></kbd>
 
 <br />
 
@@ -358,3 +358,17 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_99.jpg" /></kbd>
 
 <kbd><img src="images/sausage_100.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw more ronald mcdonalds"
+
+<kbd><img src="images/sausage_101.jpg" /></kbd>
+
+<kbd><img src="images/sausage_102.jpg" /></kbd>
+
+<kbd><img src="images/sausage_103.jpg" /></kbd>
+
+<kbd><img src="images/sausage_104.jpg" /></kbd>
