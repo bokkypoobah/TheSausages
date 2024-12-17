@@ -286,3 +286,17 @@ My experiments with X/Twitter Grok AI generated images, before my free image gen
 <kbd><img src="images/sausage_79.jpg" /></kbd>
 
 <kbd><img src="images/sausage_80.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Draw godzilla fighting a giant long sausage in the shape of an anaconda with beady eyes and a forked tongue, with the letters GM and PP embossed all over the long sausage"
+
+<kbd><img src="images/sausage_81.jpg" /></kbd>
+
+<kbd><img src="images/sausage_82.jpg" /></kbd>
+
+<kbd><img src="images/sausage_83.jpg" /></kbd>
+
+<kbd><img src="images/sausage_84.jpg" /></kbd>
