@@ -414,3 +414,31 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_115.jpg" /></kbd>
 
 <kbd><img src="images/sausage_116.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw shrek smoking a joint at the joe rogan podcast"
+
+<kbd><img src="images/sausage_117.jpg" /></kbd>
+
+<kbd><img src="images/sausage_118.jpg" /></kbd>
+
+<kbd><img src="images/sausage_119.jpg" /></kbd>
+
+<kbd><img src="images/sausage_120.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw shrek smoking a joint in a haze of smoke like elon musk at the joe rogan podcast"
+
+<kbd><img src="images/sausage_121.jpg" /></kbd>
+
+<kbd><img src="images/sausage_122.jpg" /></kbd>
+
+<kbd><img src="images/sausage_123.jpg" /></kbd>
+
+<kbd><img src="images/sausage_124.jpg" /></kbd>
