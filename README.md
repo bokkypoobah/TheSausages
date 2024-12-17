@@ -400,3 +400,17 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_111.jpg" /></kbd>
 
 <kbd><img src="images/sausage_112.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw shrek eating from a bucket of long thin earthworm-like sausages with the letters 'GM' and 'PP' embossed in gold on the skins, while rolling a joint from a piled up bowl of nuggets of weed"
+
+<kbd><img src="images/sausage_113.jpg" /></kbd>
+
+<kbd><img src="images/sausage_114.jpg" /></kbd>
+
+<kbd><img src="images/sausage_115.jpg" /></kbd>
+
+<kbd><img src="images/sausage_116.jpg" /></kbd>
