@@ -442,3 +442,17 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_123.jpg" /></kbd>
 
 <kbd><img src="images/sausage_124.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the incredible hulk eating an incredibly long string of sausages, each sausage embossed with the letters 'GM' and 'pp' in gold"
+
+<kbd><img src="images/sausage_125.jpg" /></kbd>
+
+<kbd><img src="images/sausage_126.jpg" /></kbd>
+
+<kbd><img src="images/sausage_127.jpg" /></kbd>
+
+<kbd><img src="images/sausage_128.jpg" /></kbd>
