@@ -351,6 +351,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 ##### "draw ronald mcdonald"
 
+<kbd><img src="images/drawronaldmcdonald.png" /></kbd>
+
 <kbd><img src="images/sausage_97.jpg" /></kbd>
 
 <kbd><img src="images/sausage_98.jpg" /></kbd>
@@ -364,6 +366,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <hr />
 
 ##### "draw more ronald mcdonalds"
+
+<kbd><img src="images/drawmoreronaldmcdonalds.png" /></kbd>
 
 <kbd><img src="images/sausage_101.jpg" /></kbd>
 
