@@ -512,3 +512,31 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_143.jpg" /></kbd>
 
 <kbd><img src="images/sausage_144.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw satoshi"
+
+<kbd><img src="images/sausage_145.jpg" /></kbd>
+
+<kbd><img src="images/sausage_146.jpg" /></kbd>
+
+<kbd><img src="images/sausage_147.jpg" /></kbd>
+
+<kbd><img src="images/sausage_148.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw vitalik"
+
+<kbd><img src="images/sausage_149.jpg" /></kbd>
+
+<kbd><img src="images/sausage_150.jpg" /></kbd>
+
+<kbd><img src="images/sausage_151.jpg" /></kbd>
+
+<kbd><img src="images/sausage_152.jpg" /></kbd>
