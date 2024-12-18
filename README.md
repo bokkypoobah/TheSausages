@@ -456,3 +456,17 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_127.jpg" /></kbd>
 
 <kbd><img src="images/sausage_128.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw king kong hanging on to the side of a building, eating and fighting with an incredibly long string of sausages, each sausage embossed with the letters 'GM' and 'pp' in gold"
+
+<kbd><img src="images/sausage_129.jpg" /></kbd>
+
+<kbd><img src="images/sausage_130.jpg" /></kbd>
+
+<kbd><img src="images/sausage_131.jpg" /></kbd>
+
+<kbd><img src="images/sausage_132.jpg" /></kbd>
