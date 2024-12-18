@@ -491,6 +491,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 ##### "draw spiderman"
 
+<kbd><img src="images/drawspiderman.png" /></kbd>
+
 <kbd><img src="images/sausage_137.jpg" /></kbd>
 
 <kbd><img src="images/sausage_138.jpg" /></kbd>
@@ -504,6 +506,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <hr />
 
 ##### "draw donald trump"
+
+<kbd><img src="images/drawdonaldtrump.png" /></kbd>
 
 <kbd><img src="images/sausage_141.jpg" /></kbd>
 
@@ -519,6 +523,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 ##### "draw satoshi"
 
+<kbd><img src="images/drawsatoshi.png" /></kbd>
+
 <kbd><img src="images/sausage_145.jpg" /></kbd>
 
 <kbd><img src="images/sausage_146.jpg" /></kbd>
@@ -532,6 +538,8 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <hr />
 
 ##### "draw vitalik"
+
+<kbd><img src="images/drawvitalik.png" /></kbd>
 
 <kbd><img src="images/sausage_149.jpg" /></kbd>
 
