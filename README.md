@@ -484,3 +484,31 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_135.jpg" /></kbd>
 
 <kbd><img src="images/sausage_136.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw spiderman"
+
+<kbd><img src="images/sausage_137.jpg" /></kbd>
+
+<kbd><img src="images/sausage_138.jpg" /></kbd>
+
+<kbd><img src="images/sausage_139.jpg" /></kbd>
+
+<kbd><img src="images/sausage_140.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw donald trump"
+
+<kbd><img src="images/sausage_141.jpg" /></kbd>
+
+<kbd><img src="images/sausage_142.jpg" /></kbd>
+
+<kbd><img src="images/sausage_143.jpg" /></kbd>
+
+<kbd><img src="images/sausage_144.jpg" /></kbd>
