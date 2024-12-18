@@ -470,3 +470,17 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_131.jpg" /></kbd>
 
 <kbd><img src="images/sausage_132.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw king kong swinging on an incredibly long string of sausages, each sausage embossed with the bitcoin logo in puce while helicopters swarm in a futuristic city"
+
+<kbd><img src="images/sausage_133.jpg" /></kbd>
+
+<kbd><img src="images/sausage_134.jpg" /></kbd>
+
+<kbd><img src="images/sausage_135.jpg" /></kbd>
+
+<kbd><img src="images/sausage_136.jpg" /></kbd>
