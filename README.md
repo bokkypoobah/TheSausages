@@ -4,6 +4,8 @@
 
 My testing of X (Twitter) Grok AI's image generation, just made available to non-premium X users.
 
+<kbd><img src="images/sausages-samples.gif" /></kbd>
+
 Images and metadata for [The Sausages](https://opensea.io/collection/thesausages) NFT Collection.
 
 <kbd><img src="images/drawronaldmcdonaldsandmore.png" /></kbd>
