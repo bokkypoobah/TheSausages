@@ -618,3 +618,35 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_167.jpg" /></kbd>
 
 <kbd><img src="images/sausage_168.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw gollum. remember to emboss the ethereum logo and the letters GM on each sausages in gold"
+
+<kbd><img src="images/drawgollum.png" /></kbd>
+
+<kbd><img src="images/sausage_169.jpg" /></kbd>
+
+<kbd><img src="images/sausage_170.jpg" /></kbd>
+
+<kbd><img src="images/sausage_171.jpg" /></kbd>
+
+<kbd><img src="images/sausage_172.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw gollum smoking a joint with one hand and grappling a few precious sausages in the other hand, with the middle finger stuck up, in a bathtub of weed nuggets. emboss the sausages with the ethereum logo and the letters GM in gold"
+
+<kbd><img src="images/drawgollum2.png" /></kbd>
+
+<kbd><img src="images/sausage_173.jpg" /></kbd>
+
+<kbd><img src="images/sausage_174.jpg" /></kbd>
+
+<kbd><img src="images/sausage_175.jpg" /></kbd>
+
+<kbd><img src="images/sausage_176.jpg" /></kbd>
