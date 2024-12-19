@@ -714,3 +714,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_191.jpg" /></kbd>
 
 <kbd><img src="images/sausage_192.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "katniss everdeen drawing a bow and arrow, in a tropical jungle. the bow is made from a single long thin sausage. remember to emboss the ethereum logo and GM into the sausage"
+
+<kbd><img src="images/drawethereumgmkatnisseverdeen.png" /></kbd>
+
+<kbd><img src="images/sausage_193.jpg" /></kbd>
+
+<kbd><img src="images/sausage_194.jpg" /></kbd>
+
+<kbd><img src="images/sausage_195.jpg" /></kbd>
+
+<kbd><img src="images/sausage_196.jpg" /></kbd>
