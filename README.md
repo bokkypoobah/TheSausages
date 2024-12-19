@@ -584,3 +584,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_159.jpg" /></kbd>
 
 <kbd><img src="images/sausage_160.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a fleet of ufos dropping strings of sausages, with the ethereum logo and the letters GM embossed in gold on the sausage skins, on a bright sunny day"
+
+<kbd><img src="images/drawethereumgmufos.png" /></kbd>
+
+<kbd><img src="images/sausage_161.jpg" /></kbd>
+
+<kbd><img src="images/sausage_162.jpg" /></kbd>
+
+<kbd><img src="images/sausage_163.jpg" /></kbd>
+
+<kbd><img src="images/sausage_164.jpg" /></kbd>
