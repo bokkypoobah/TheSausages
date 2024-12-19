@@ -552,3 +552,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_151.jpg" /></kbd>
 
 <kbd><img src="images/sausage_152.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw vitalik"
+
+<kbd><img src="images/drawethereumgmdrones.png" /></kbd>
+
+<kbd><img src="images/sausage_153.jpg" /></kbd>
+
+<kbd><img src="images/sausage_154.jpg" /></kbd>
+
+<kbd><img src="images/sausage_155.jpg" /></kbd>
+
+<kbd><img src="images/sausage_156.jpg" /></kbd>
