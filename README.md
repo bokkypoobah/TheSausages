@@ -650,3 +650,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_175.jpg" /></kbd>
 
 <kbd><img src="images/sausage_176.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a cruise missile flying through clouds with flames emitted from the rocket engine at the back, but replace the cruise missile with a long sausage with the ethereum logo and the letters GM embossed in gold on the sausage. Add a single goggly eye to the front of the cruise sausage"
+
+<kbd><img src="images/drawethereumgmcruisesausage.png" /></kbd>
+
+<kbd><img src="images/sausage_177.jpg" /></kbd>
+
+<kbd><img src="images/sausage_178.jpg" /></kbd>
+
+<kbd><img src="images/sausage_179.jpg" /></kbd>
+
+<kbd><img src="images/sausage_180.jpg" /></kbd>
