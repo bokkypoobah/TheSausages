@@ -698,3 +698,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_187.jpg" /></kbd>
 
 <kbd><img src="images/sausage_188.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "predator, as in the movie, but with long earthworm-like strings of sausages hanging off the side of the helmet. Remember to emboss the ethereum logo and GM on the sides of the earthworm-like sausages"
+
+<kbd><img src="images/drawethereumgmpredator.png" /></kbd>
+
+<kbd><img src="images/sausage_189.jpg" /></kbd>
+
+<kbd><img src="images/sausage_190.jpg" /></kbd>
+
+<kbd><img src="images/sausage_191.jpg" /></kbd>
+
+<kbd><img src="images/sausage_192.jpg" /></kbd>
