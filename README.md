@@ -557,7 +557,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "draw vitalik"
+##### "draw a fleet of drones dropping sausages with the ethereum logo and the letters GM embossed in gold, on a bright sunny day"
 
 <kbd><img src="images/drawethereumgmdrones.png" /></kbd>
 
@@ -568,3 +568,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_155.jpg" /></kbd>
 
 <kbd><img src="images/sausage_156.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a fleet of chinese spy balloons dropping sausages with the ethereum logo and the letters GM embossed in gold, on a bright sunny day"
+
+<kbd><img src="images/drawethereumgmchinesespyballoons.png" /></kbd>
+
+<kbd><img src="images/sausage_157.jpg" /></kbd>
+
+<kbd><img src="images/sausage_158.jpg" /></kbd>
+
+<kbd><img src="images/sausage_159.jpg" /></kbd>
+
+<kbd><img src="images/sausage_160.jpg" /></kbd>
