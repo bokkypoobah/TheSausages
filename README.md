@@ -600,3 +600,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_163.jpg" /></kbd>
 
 <kbd><img src="images/sausage_164.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a space invaders game with multiple pixelated aliens being targeted by upward heading sausage projectiles, with the ethereum logo and the letters GM embossed on each sausages"
+
+<kbd><img src="images/drawethereumgmspaceinvaders.png" /></kbd>
+
+<kbd><img src="images/sausage_165.jpg" /></kbd>
+
+<kbd><img src="images/sausage_166.jpg" /></kbd>
+
+<kbd><img src="images/sausage_167.jpg" /></kbd>
+
+<kbd><img src="images/sausage_168.jpg" /></kbd>
