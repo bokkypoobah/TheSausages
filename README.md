@@ -671,7 +671,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "draw a cruise missile flying through clouds with flames emitted from the rocket engine at the back, but replace the cruise missile with a long sausage with the ethereum logo and the letters GM embossed in gold on the sausage. Add a single goggly eye to the front of the cruise sausage"
+##### "walter white from breaking standing in front of a bus in a green office shirt without any trousers in the desert aiming a gun at a target, but replace the gun with a gun-shaped long sausage with the ethereum logo and the letters GM embossed in gold on the side of the sausage. Add a single goggly eye to the front of the sausage"
 
 <kbd><img src="images/drawethereumgmwalterwhite.png" /></kbd>
 
@@ -682,3 +682,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_183.jpg" /></kbd>
 
 <kbd><img src="images/sausage_184.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a cruise missile flying through clouds with flames emitted from the rocket engine at the back, but replace the cruise missile with a long sausage with the ethereum logo and the letters GM embossed in gold on the sausage. Add a single goggly eye to the front of the cruise sausage"
+
+<kbd><img src="images/drawethereumgmterminator.png" /></kbd>
+
+<kbd><img src="images/sausage_185.jpg" /></kbd>
+
+<kbd><img src="images/sausage_186.jpg" /></kbd>
+
+<kbd><img src="images/sausage_187.jpg" /></kbd>
+
+<kbd><img src="images/sausage_188.jpg" /></kbd>
