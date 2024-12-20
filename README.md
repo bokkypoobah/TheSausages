@@ -735,7 +735,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "ambo first blood stallone holding machine gun blazing and wearing an ammo belt across his chest holding many pencil thin sausages, in a jungle background. remember to emboss the ethereum logo and GM into the sausage"
+##### "rambo first blood stallone holding machine gun blazing and wearing an ammo belt across his chest holding many pencil thin sausages, in a jungle background. remember to emboss the ethereum logo and GM into the sausage"
 
 <kbd><img src="images/drawethereumgmrambo.png" /></kbd>
 
@@ -746,3 +746,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_199.jpg" /></kbd>
 
 <kbd><img src="images/sausage_200.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Jean-Claude Camille François Van Varenberg karate kicking a flaming sausage across a boxing ring. remember to emboss the ethereum logo and GM into the sausage"
+
+<kbd><img src="images/drawethereumgmjcvd.png" /></kbd>
+
+<kbd><img src="images/sausage_201.jpg" /></kbd>
+
+<kbd><img src="images/sausage_202.jpg" /></kbd>
+
+<kbd><img src="images/sausage_203.jpg" /></kbd>
+
+<kbd><img src="images/sausage_204.jpg" /></kbd>
