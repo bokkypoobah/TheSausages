@@ -762,3 +762,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_203.jpg" /></kbd>
 
 <kbd><img src="images/sausage_204.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "gandalf, but replace the staff with a very long straightish sausage. add an  gold ethereum diamond to the top of the staff, and emboss 'GM' into the sausage"
+
+<kbd><img src="images/drawethereumgmgandalf.png" /></kbd>
+
+<kbd><img src="images/sausage_205.jpg" /></kbd>
+
+<kbd><img src="images/sausage_206.jpg" /></kbd>
+
+<kbd><img src="images/sausage_207.jpg" /></kbd>
+
+<kbd><img src="images/sausage_208.jpg" /></kbd>
