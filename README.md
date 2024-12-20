@@ -842,3 +842,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_223.jpg" /></kbd>
 
 <kbd><img src="images/sausage_224.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw agent smith from the matrix holding a gun, but replace the gun barrel with a sausage. remember to add the ethereum logo and the letters gm to the sausage"
+
+<kbd><img src="images/drawethereumgmagentsmith.png" /></kbd>
+
+<kbd><img src="images/sausage_225.jpg" /></kbd>
+
+<kbd><img src="images/sausage_226.jpg" /></kbd>
+
+<kbd><img src="images/sausage_227.jpg" /></kbd>
+
+<kbd><img src="images/sausage_228.jpg" /></kbd>
