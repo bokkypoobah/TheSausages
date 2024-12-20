@@ -810,3 +810,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_215.jpg" /></kbd>
 
 <kbd><img src="images/sausage_216.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "men in black Tommy Lee Jones and Will Smith holding sausages"
+
+<kbd><img src="images/drawethereumgmpiratescaribbean.png" /></kbd>
+
+<kbd><img src="images/sausage_217.jpg" /></kbd>
+
+<kbd><img src="images/sausage_218.jpg" /></kbd>
+
+<kbd><img src="images/sausage_219.jpg" /></kbd>
+
+<kbd><img src="images/sausage_220.jpg" /></kbd>
