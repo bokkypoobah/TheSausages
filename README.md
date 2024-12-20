@@ -890,3 +890,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_235.jpg" /></kbd>
 
 <kbd><img src="images/sausage_236.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw terminator liquid metal man T-1000 with spike finger, and add a sausage to the end of the spike"
+
+<kbd><img src="images/drawethereumgmterminatort1000.png" /></kbd>
+
+<kbd><img src="images/sausage_237.jpg" /></kbd>
+
+<kbd><img src="images/sausage_238.jpg" /></kbd>
+
+<kbd><img src="images/sausage_239.jpg" /></kbd>
+
+<kbd><img src="images/sausage_240.jpg" /></kbd>
