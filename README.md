@@ -794,3 +794,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_211.jpg" /></kbd>
 
 <kbd><img src="images/sausage_212.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Captain Jack Sparrow, Pirates Of The Caribbean Johnny Depp, but holding a long sausage instead of a sword"
+
+<kbd><img src="images/drawethereumgmpiratescaribbean.png" /></kbd>
+
+<kbd><img src="images/sausage_213.jpg" /></kbd>
+
+<kbd><img src="images/sausage_214.jpg" /></kbd>
+
+<kbd><img src="images/sausage_215.jpg" /></kbd>
+
+<kbd><img src="images/sausage_216.jpg" /></kbd>
