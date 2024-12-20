@@ -858,3 +858,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_227.jpg" /></kbd>
 
 <kbd><img src="images/sausage_228.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw kill bill yellow jumpsuit uma thurman yellow jumpsuit holding sword with two hands over the shoulder, but replace the sword with a single string of sausages. remember to add the ethereum logo and the letters gm to the sausage"
+
+<kbd><img src="images/drawethereumgmkillbillumathurman.png" /></kbd>
+
+<kbd><img src="images/sausage_229.jpg" /></kbd>
+
+<kbd><img src="images/sausage_230.jpg" /></kbd>
+
+<kbd><img src="images/sausage_231.jpg" /></kbd>
+
+<kbd><img src="images/sausage_232.jpg" /></kbd>
