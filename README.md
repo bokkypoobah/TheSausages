@@ -826,3 +826,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_219.jpg" /></kbd>
 
 <kbd><img src="images/sausage_220.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw roger moore james bond 007 holding a walther ppk gun, but add a gun silencer to the gun and replace the gun silencer with a sausage. Emboss the ethereum logo and GM into the sausage"
+
+<kbd><img src="images/drawethereumgmrogermoorejamesbond007.png" /></kbd>
+
+<kbd><img src="images/sausage_221.jpg" /></kbd>
+
+<kbd><img src="images/sausage_222.jpg" /></kbd>
+
+<kbd><img src="images/sausage_223.jpg" /></kbd>
+
+<kbd><img src="images/sausage_224.jpg" /></kbd>
