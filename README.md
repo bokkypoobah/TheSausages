@@ -874,3 +874,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_231.jpg" /></kbd>
 
 <kbd><img src="images/sausage_232.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it."
+
+<kbd><img src="images/drawethereumgmmorpheusredpillbluepill.png" /></kbd>
+
+<kbd><img src="images/sausage_233.jpg" /></kbd>
+
+<kbd><img src="images/sausage_234.jpg" /></kbd>
+
+<kbd><img src="images/sausage_235.jpg" /></kbd>
+
+<kbd><img src="images/sausage_236.jpg" /></kbd>
