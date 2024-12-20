@@ -778,3 +778,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_207.jpg" /></kbd>
 
 <kbd><img src="images/sausage_208.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Derek Zoolander Ben Stiller filling his car at the gasoline station. Derek is holding the fuel dispenser nozzle, directing it into his car fuel tank inlet. Replace the fuel dispenser nozzle with a sausage. Emboss the ethereum logo and GM into the sausage"
+
+<kbd><img src="images/drawethereumgmzoolander.png" /></kbd>
+
+<kbd><img src="images/sausage_209.jpg" /></kbd>
+
+<kbd><img src="images/sausage_210.jpg" /></kbd>
+
+<kbd><img src="images/sausage_211.jpg" /></kbd>
+
+<kbd><img src="images/sausage_212.jpg" /></kbd>
