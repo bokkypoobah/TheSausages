@@ -986,3 +986,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_259.jpg" /></kbd>
 
 <kbd><img src="images/sausage_260.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic T-1000 Terminator in liquid metal form walking out of a fire in the background, holding a levitating tennis-ball-sized blob of internally flourescent pink spherical jelly, with a cherry on the top of the jelly. remember to add the ethereum logo and the letters gm to the jelly"
+
+<kbd><img src="images/drawethereumgmterminatort1000levitatingjelly.png" /></kbd>
+
+<kbd><img src="images/sausage_261.jpg" /></kbd>
+
+<kbd><img src="images/sausage_262.jpg" /></kbd>
+
+<kbd><img src="images/sausage_263.jpg" /></kbd>
+
+<kbd><img src="images/sausage_264.jpg" /></kbd>
