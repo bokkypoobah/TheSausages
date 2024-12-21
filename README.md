@@ -922,3 +922,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_243.jpg" /></kbd>
 
 <kbd><img src="images/sausage_244.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw darth vader star wars holding a lightsaber, but replace the lightsaber with a long straightish sausage glowing fluorescent pink. remember to add the ethereum logo and the letters gm to the sausage"
+
+<kbd><img src="images/drawethereumgmdarthvader.png" /></kbd>
+
+<kbd><img src="images/sausage_245.jpg" /></kbd>
+
+<kbd><img src="images/sausage_246.jpg" /></kbd>
+
+<kbd><img src="images/sausage_247.jpg" /></kbd>
+
+<kbd><img src="images/sausage_248.jpg" /></kbd>
