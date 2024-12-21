@@ -906,3 +906,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_239.jpg" /></kbd>
 
 <kbd><img src="images/sausage_240.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw ghostbusters stay puft marshmallow man holding a sausage, in new york. marshmallow man is wearing a white sailor cap with a red ribbon attached on top and a blue hatband. Around his neck, he has a traditional blue sailor’s collar and a red neckerchief"
+
+<kbd><img src="images/drawethereumgmmarshmallowman.png" /></kbd>
+
+<kbd><img src="images/sausage_241.jpg" /></kbd>
+
+<kbd><img src="images/sausage_242.jpg" /></kbd>
+
+<kbd><img src="images/sausage_243.jpg" /></kbd>
+
+<kbd><img src="images/sausage_244.jpg" /></kbd>
