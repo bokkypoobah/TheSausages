@@ -938,3 +938,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_247.jpg" /></kbd>
 
 <kbd><img src="images/sausage_248.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw iconic darth vader from star wars juggling 3 internally glowing fluorescent pink short sausages. remember to add the ethereum logo and the letters gm to the sausage"
+
+<kbd><img src="images/drawethereumgmdarthvaderjuggling.png" /></kbd>
+
+<kbd><img src="images/sausage_249.jpg" /></kbd>
+
+<kbd><img src="images/sausage_250.jpg" /></kbd>
+
+<kbd><img src="images/sausage_251.jpg" /></kbd>
+
+<kbd><img src="images/sausage_252.jpg" /></kbd>
