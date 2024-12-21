@@ -954,3 +954,35 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_251.jpg" /></kbd>
 
 <kbd><img src="images/sausage_252.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw two blobs of jelly, with a cherry on the top of each jelly"
+
+<kbd><img src="images/drawethereumgmjellies.png" /></kbd>
+
+<kbd><img src="images/sausage_253.jpg" /></kbd>
+
+<kbd><img src="images/sausage_254.jpg" /></kbd>
+
+<kbd><img src="images/sausage_255.jpg" /></kbd>
+
+<kbd><img src="images/sausage_256.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw iconic darth vader star wars juggling 2 blobs of internally flourescent pink spherical jelly, each jelly with a cherry on the top. remember to add the ethereum logo and the letters gm to the sausage. in a zero-gravity chamber"
+
+<kbd><img src="images/drawethereumgmdarthvaderjugglingjellies.png" /></kbd>
+
+<kbd><img src="images/sausage_257.jpg" /></kbd>
+
+<kbd><img src="images/sausage_258.jpg" /></kbd>
+
+<kbd><img src="images/sausage_259.jpg" /></kbd>
+
+<kbd><img src="images/sausage_260.jpg" /></kbd>
