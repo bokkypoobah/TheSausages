@@ -1018,3 +1018,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_267.jpg" /></kbd>
 
 <kbd><img src="images/sausage_268.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw iconic alfred e neuman on a mad magazine cover. alfred e neuman is holding a short transparent aubergine emanating a soft purple glow"
+
+<kbd><img src="images/drawethereumgmalfredeneumanaubergine.png" /></kbd>
+
+<kbd><img src="images/sausage_269.jpg" /></kbd>
+
+<kbd><img src="images/sausage_270.jpg" /></kbd>
+
+<kbd><img src="images/sausage_271.jpg" /></kbd>
+
+<kbd><img src="images/sausage_272.jpg" /></kbd>
