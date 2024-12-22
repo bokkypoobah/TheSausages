@@ -1002,3 +1002,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_263.jpg" /></kbd>
 
 <kbd><img src="images/sausage_264.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw iconic alfred e neuman on a mad magazine cover. alfred e neuman is holding a short transparent sausage emanating a soft pink glow"
+
+<kbd><img src="images/drawethereumgmalfredeneuman.png" /></kbd>
+
+<kbd><img src="images/sausage_265.jpg" /></kbd>
+
+<kbd><img src="images/sausage_266.jpg" /></kbd>
+
+<kbd><img src="images/sausage_267.jpg" /></kbd>
+
+<kbd><img src="images/sausage_268.jpg" /></kbd>
