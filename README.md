@@ -687,7 +687,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "draw a cruise missile flying through clouds with flames emitted from the rocket engine at the back, but replace the cruise missile with a long sausage with the ethereum logo and the letters GM embossed in gold on the sausage. Add a single goggly eye to the front of the cruise sausage"
+##### "arnold schwarzenegger terminator with black sunglasses and arm extended holding a long shotgun, but replace the gun with a long gun-shaped sausage with the ethereum logo and the letters GM embossed in gold on the side of the sausage gun. Add a single goggly eye to the front of the sausage gun"
 
 <kbd><img src="images/drawethereumgmterminator.png" /></kbd>
 
