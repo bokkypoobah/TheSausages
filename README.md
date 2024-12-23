@@ -84,7 +84,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "draw a delicatessen serving only sausages with the words "GM" and "PP" embossed on the skins"
+##### "draw a delicatessen serving only sausages with the words 'GM' and 'PP' embossed on the skins"
 
 <kbd><img src="images/sausage_21.jpg" /></kbd>
 
