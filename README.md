@@ -1130,3 +1130,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_295.jpg" /></kbd>
 
 <kbd><img src="images/sausage_296.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw Trinity, played by Carrie-Anne Moss, wearing a black leather outfit, black sunglasses, and holding a gun on a rooftop in a scene from The Matrix, where she is fighting against agents. replace the gun with a sausage in the shape of a gun. emboss the ethereum logo and the letters GM in the sausage, and add a glowing tip to the sausage. with a pale greenish background"
+
+<kbd><img src="images/drawethereumgmmatrixtrinity.png" /></kbd>
+
+<kbd><img src="images/sausage_297.jpg" /></kbd>
+
+<kbd><img src="images/sausage_298.jpg" /></kbd>
+
+<kbd><img src="images/sausage_299.jpg" /></kbd>
+
+<kbd><img src="images/sausage_300.jpg" /></kbd>
