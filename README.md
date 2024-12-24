@@ -1162,3 +1162,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_303.jpg" /></kbd>
 
 <kbd><img src="images/sausage_304.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw santa claus with a sleigh in the background carrying a big bag. santa's bag is red and green with the words "Ho Ho Ho" in gold writing, with an ethereum logo, and is overflowing with long slim sausages."
+
+<kbd><img src="images/drawethereumgsantaclaus.png" /></kbd>
+
+<kbd><img src="images/sausage_305.jpg" /></kbd>
+
+<kbd><img src="images/sausage_306.jpg" /></kbd>
+
+<kbd><img src="images/sausage_307.jpg" /></kbd>
+
+<kbd><img src="images/sausage_308.jpg" /></kbd>
