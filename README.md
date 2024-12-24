@@ -1066,3 +1066,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_279.jpg" /></kbd>
 
 <kbd><img src="images/sausage_280.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw daryl dixon from the walking dead, with a crossbow. daryl is holding his iconic crossbow, armed and ready to fire, with a threatening stance. his crossbow is tangled with a long piece of slender sausage"
+
+<kbd><img src="images/drawethereumgmdaryldixoncrossbow.png" /></kbd>
+
+<kbd><img src="images/sausage_281.jpg" /></kbd>
+
+<kbd><img src="images/sausage_282.jpg" /></kbd>
+
+<kbd><img src="images/sausage_283.jpg" /></kbd>
+
+<kbd><img src="images/sausage_284.jpg" /></kbd>
