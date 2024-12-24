@@ -1114,3 +1114,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_291.jpg" /></kbd>
 
 <kbd><img src="images/sausage_292.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Draw the iconic scene featuring Harrison Ford as Rick Deckard holding a gun in Blade Runner (1982), in the rooftop confrontation with Pris (Daryl Hannah) and Roy Batty (Rutger Hauer). As Deckard approaches the two replicants, he draws his gun, and prepares for a fight. replace the gun with a sausage in the shape of a gun. emboss the ethereum logo and the letters GM in the sausage, and add a glowing tip to the sausage"
+
+<kbd><img src="images/drawethereumgmbladerunnerrickdekard.png" /></kbd>
+
+<kbd><img src="images/sausage_293.jpg" /></kbd>
+
+<kbd><img src="images/sausage_294.jpg" /></kbd>
+
+<kbd><img src="images/sausage_295.jpg" /></kbd>
+
+<kbd><img src="images/sausage_296.jpg" /></kbd>
