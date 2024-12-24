@@ -1146,3 +1146,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_299.jpg" /></kbd>
 
 <kbd><img src="images/sausage_300.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw iconic einstein with white shocking hair and sticking out his tongue. show einstein holding a short transparent sausage glowing green"
+
+<kbd><img src="images/drawethereumgmeinstein.png" /></kbd>
+
+<kbd><img src="images/sausage_301.jpg" /></kbd>
+
+<kbd><img src="images/sausage_302.jpg" /></kbd>
+
+<kbd><img src="images/sausage_303.jpg" /></kbd>
+
+<kbd><img src="images/sausage_304.jpg" /></kbd>
