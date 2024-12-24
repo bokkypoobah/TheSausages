@@ -1098,3 +1098,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_287.jpg" /></kbd>
 
 <kbd><img src="images/sausage_288.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Rick Grimes, a character from The Walking Dead, is often depicted holding a gun in various scenes. If we replace the gun with a sausage in the shape of a gun, the iconic scene would feature Rick Grimes holding a sausage, likely in a dramatic or intense pose, with the sausage possibly being held high and aimed downward, similar to how he holds his gun. emboss the ethereum logo and the letters GM in the sausage, and add a glowing tip to the sausage"
+
+<kbd><img src="images/drawethereumgmrickgrimes.png" /></kbd>
+
+<kbd><img src="images/sausage_289.jpg" /></kbd>
+
+<kbd><img src="images/sausage_290.jpg" /></kbd>
+
+<kbd><img src="images/sausage_291.jpg" /></kbd>
+
+<kbd><img src="images/sausage_292.jpg" /></kbd>
