@@ -1034,3 +1034,35 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_271.jpg" /></kbd>
 
 <kbd><img src="images/sausage_272.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a glorious christmas tree with baubles and ornaments. replace the baubles with short transparent sausages emanating a soft green glow"
+
+<kbd><img src="images/drawethereumgmgloriouschristmastree.png" /></kbd>
+
+<kbd><img src="images/sausage_273.jpg" /></kbd>
+
+<kbd><img src="images/sausage_274.jpg" /></kbd>
+
+<kbd><img src="images/sausage_275.jpg" /></kbd>
+
+<kbd><img src="images/sausage_276.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a few gift boxes at the base of a christmas tree. the gift boxes are opened and are overflowing with long thin sausages. several transparent short sausage-shaped baubles glowing in red and green are hanging from the tree."
+
+<kbd><img src="images/drawethereumgmchristmasgifts.png" /></kbd>
+
+<kbd><img src="images/sausage_277.jpg" /></kbd>
+
+<kbd><img src="images/sausage_278.jpg" /></kbd>
+
+<kbd><img src="images/sausage_279.jpg" /></kbd>
+
+<kbd><img src="images/sausage_280.jpg" /></kbd>
