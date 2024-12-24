@@ -1082,3 +1082,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_283.jpg" /></kbd>
 
 <kbd><img src="images/sausage_284.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "Negan's Lucille Modification Negan’s Modified Lucille: Negan, the Walking Dead archvillain, is typically depicted holding his iconic barbed wire bat, Lucille, over his shoulder. However, in this modified version, the barbed wire at the end of the bat is replaced with a sausage, giving the character a somewhat absurd and humorous appearance, as he nonchalantly holds the sausage-tipped bat over his shoulder."
+
+<kbd><img src="images/drawethereumgmnegan.png" /></kbd>
+
+<kbd><img src="images/sausage_285.jpg" /></kbd>
+
+<kbd><img src="images/sausage_286.jpg" /></kbd>
+
+<kbd><img src="images/sausage_287.jpg" /></kbd>
+
+<kbd><img src="images/sausage_288.jpg" /></kbd>
