@@ -1210,3 +1210,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_315.jpg" /></kbd>
 
 <kbd><img src="images/sausage_316.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene in Rambo: First Blood Part II (1985) where John Rambo (Sylvester Stallone) is aiming a rocket launcher and wears a red headband. replace the rocket with a single stubby sausage"
+
+<kbd><img src="images/drawethereumgramborocketlauncher.png" /></kbd>
+
+<kbd><img src="images/sausage_317.jpg" /></kbd>
+
+<kbd><img src="images/sausage_318.jpg" /></kbd>
+
+<kbd><img src="images/sausage_319.jpg" /></kbd>
+
+<kbd><img src="images/sausage_320.jpg" /></kbd>
