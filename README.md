@@ -1290,3 +1290,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_335.jpg" /></kbd>
 
 <kbd><img src="images/sausage_336.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic dogecoin gold coin with the shiba inu dog. the coin has words like wow and "how money so crypto". the coin is leaning against a translucent sausage emanating a soft pink glow, with the letters gm embossed in gold at one end of the sausage. the coin is in front of the sausage, and both are laying on a gamer's messy computer table"
+
+<kbd><img src="images/drawgmdoge.png" /></kbd>
+
+<kbd><img src="images/sausage_337.jpg" /></kbd>
+
+<kbd><img src="images/sausage_338.jpg" /></kbd>
+
+<kbd><img src="images/sausage_339.jpg" /></kbd>
+
+<kbd><img src="images/sausage_340.jpg" /></kbd>
