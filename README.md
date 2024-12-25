@@ -1306,3 +1306,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_339.jpg" /></kbd>
 
 <kbd><img src="images/sausage_340.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic gold bitcoin coin, twice as large, sitting on a pile of steaming sausages on a successful professional traders workstation with multiple monitors. the translucent sausage emanate a soft pink glow, and have the letters gm embossed in gold at one end"
+
+<kbd><img src="images/drawgmbitcoin.png" /></kbd>
+
+<kbd><img src="images/sausage_341.jpg" /></kbd>
+
+<kbd><img src="images/sausage_342.jpg" /></kbd>
+
+<kbd><img src="images/sausage_343.jpg" /></kbd>
+
+<kbd><img src="images/sausage_344.jpg" /></kbd>
