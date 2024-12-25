@@ -1226,3 +1226,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_319.jpg" /></kbd>
 
 <kbd><img src="images/sausage_320.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the Terminator Cover Picture featuring the Terminator (Arnold Schwarzenegger) wearing black sunglasses and a black jacket, with his finger in the trigger of a gun held up near his face. his gun is partly made up of a translucent sausage emanating a soft pink glow. there are red stripes fanning out in the background from behind the terminator. add the words "The Terminator" to the top of the picture, in the style of the original  cover picture"
+
+<kbd><img src="images/drawethereumgmtheterminator.png" /></kbd>
+
+<kbd><img src="images/sausage_321.jpg" /></kbd>
+
+<kbd><img src="images/sausage_322.jpg" /></kbd>
+
+<kbd><img src="images/sausage_323.jpg" /></kbd>
+
+<kbd><img src="images/sausage_324.jpg" /></kbd>
