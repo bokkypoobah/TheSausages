@@ -1258,3 +1258,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_327.jpg" /></kbd>
 
 <kbd><img src="images/sausage_328.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw The Scene: Indiana Jones is facing the viewer, staring at the golden idol in the Temple of the Chachapoyan Warriors, a moment of calm before he triggers the trap and the iconic giant boulder chase ensues. replace the golden idol with a small upright standing translucent sausage emanating a golden glow, with a small ethereum logo and gm embossed into the sausage in pink"
+
+<kbd><img src="images/drawethereumgmindianajonesgoldenidol.png" /></kbd>
+
+<kbd><img src="images/sausage_329.jpg" /></kbd>
+
+<kbd><img src="images/sausage_330.jpg" /></kbd>
+
+<kbd><img src="images/sausage_331.jpg" /></kbd>
+
+<kbd><img src="images/sausage_332.jpg" /></kbd>
