@@ -1194,3 +1194,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_311.jpg" /></kbd>
 
 <kbd><img src="images/sausage_312.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene from Rambo: First Blood Part II (1985) where John Rambo (Sylvester Stallone) is aiming a bow and arrow with an explosive arrowhead. replace the explosive arrowhead with a single short stubby sausage"
+
+<kbd><img src="images/drawethereumgramboarrowhead.png" /></kbd>
+
+<kbd><img src="images/sausage_313.jpg" /></kbd>
+
+<kbd><img src="images/sausage_314.jpg" /></kbd>
+
+<kbd><img src="images/sausage_315.jpg" /></kbd>
+
+<kbd><img src="images/sausage_316.jpg" /></kbd>
