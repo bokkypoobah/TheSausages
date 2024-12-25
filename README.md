@@ -1231,7 +1231,7 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 
 <hr />
 
-##### "draw the Terminator Cover Picture featuring the Terminator (Arnold Schwarzenegger) wearing black sunglasses and a black jacket, with his finger in the trigger of a gun held up near his face. his gun is partly made up of a translucent sausage emanating a soft pink glow. there are red stripes fanning out in the background from behind the terminator. add the words "The Terminator" to the top of the picture, in the style of the original  cover picture"
+##### "draw the Terminator Cover Picture featuring the Terminator (Arnold Schwarzenegger) wearing black sunglasses and a black jacket, with his finger in the trigger of a gun held up near his face. his gun is partly made up of a translucent sausage emanating a soft pink glow. there are red stripes fanning out in the background from behind the terminator. add the words 'The Terminator' to the top of the picture, in the style of the original  cover picture"
 
 <kbd><img src="images/drawethereumgmtheterminator.png" /></kbd>
 
@@ -1242,3 +1242,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_323.jpg" /></kbd>
 
 <kbd><img src="images/sausage_324.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene in the 1922 silent film Nosferatu where Count Orlok (Nosferatu) leans over Ellen's bed, his long fingers grasping for her as she lies sleeping in a victorian bedroom. Replace Ellen with a very large human sized sausage. draw the picture in grainy black and white, with only the translucent sausage emanating a soft pink glow. add the ethereum logo and GM in gold on the sausage"
+
+<kbd><img src="images/drawethereumgmnosferatu.png" /></kbd>
+
+<kbd><img src="images/sausage_325.jpg" /></kbd>
+
+<kbd><img src="images/sausage_326.jpg" /></kbd>
+
+<kbd><img src="images/sausage_327.jpg" /></kbd>
+
+<kbd><img src="images/sausage_328.jpg" /></kbd>
