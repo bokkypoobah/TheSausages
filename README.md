@@ -1178,3 +1178,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_307.jpg" /></kbd>
 
 <kbd><img src="images/sausage_308.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene featuring Colonel James Braddock (Chuck Norris) in the 1984 film "Missing in Action", where he is seen rising from the water with a m60 machine gun in his hand. replace the machine gun with a machine gun shaped sausage"
+
+<kbd><img src="images/drawethereumgchucknorris.png" /></kbd>
+
+<kbd><img src="images/sausage_309.jpg" /></kbd>
+
+<kbd><img src="images/sausage_310.jpg" /></kbd>
+
+<kbd><img src="images/sausage_311.jpg" /></kbd>
+
+<kbd><img src="images/sausage_312.jpg" /></kbd>
