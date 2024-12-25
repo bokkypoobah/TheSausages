@@ -1274,3 +1274,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_331.jpg" /></kbd>
 
 <kbd><img src="images/sausage_332.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a Krampus festival parade with people wearing furry costumes, scaary skull masks with large horns, and where everyone is holding a short translucent sausage emanating a soft glow, some red and some green. One person holding a torch on a long handle in the background. on a snow covered street. add the ethereum logo and gm in gold to the sausages"
+
+<kbd><img src="images/drawethereumgmkrampus.png" /></kbd>
+
+<kbd><img src="images/sausage_333.jpg" /></kbd>
+
+<kbd><img src="images/sausage_334.jpg" /></kbd>
+
+<kbd><img src="images/sausage_335.jpg" /></kbd>
+
+<kbd><img src="images/sausage_336.jpg" /></kbd>
