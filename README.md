@@ -1322,3 +1322,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_343.jpg" /></kbd>
 
 <kbd><img src="images/sausage_344.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic gold ethereum coin, twice as large, sitting on a pile of steaming sausages next to a nomadic developer's laptop at a shaded table at a park in Australia. the translucent sausage emanate a soft pink glow, and have the letters gm embossed in gold at one end"
+
+<kbd><img src="images/drawgmethereum.png" /></kbd>
+
+<kbd><img src="images/sausage_345.jpg" /></kbd>
+
+<kbd><img src="images/sausage_346.jpg" /></kbd>
+
+<kbd><img src="images/sausage_347.jpg" /></kbd>
+
+<kbd><img src="images/sausage_348.jpg" /></kbd>
