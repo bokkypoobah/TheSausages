@@ -1370,3 +1370,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_355.jpg" /></kbd>
 
 <kbd><img src="images/sausage_356.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw vitalik buterin feeding moo deng the baby hippo a single sausage at the zoo. moo deng is in a pool of water with colourful flowers floating on the surface. emboss a small ethereum logo and gm in gold on the sausage"
+
+<kbd><img src="images/drawvitalikfeedingmoodeng.png" /></kbd>
+
+<kbd><img src="images/sausage_357.jpg" /></kbd>
+
+<kbd><img src="images/sausage_358.jpg" /></kbd>
+
+<kbd><img src="images/sausage_359.jpg" /></kbd>
+
+<kbd><img src="images/sausage_360.jpg" /></kbd>
