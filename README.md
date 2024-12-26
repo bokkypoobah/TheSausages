@@ -1338,3 +1338,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_347.jpg" /></kbd>
 
 <kbd><img src="images/sausage_348.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic cover art for resident evil (2002) where alice played by milla jojovich is standing in a graveyard holding a short machine gun in her right hand held upwards. the machine gun has a scope that is replaced with a translucent sausage skin emanating a soft pink glow. the background is reddish. write the words 'Resident Evil' in the style of the cover art at the top of the page"
+
+<kbd><img src="images/drawresidentevil.png" /></kbd>
+
+<kbd><img src="images/sausage_349.jpg" /></kbd>
+
+<kbd><img src="images/sausage_350.jpg" /></kbd>
+
+<kbd><img src="images/sausage_351.jpg" /></kbd>
+
+<kbd><img src="images/sausage_352.jpg" /></kbd>
