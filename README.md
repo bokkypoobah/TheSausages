@@ -1354,3 +1354,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_351.jpg" /></kbd>
 
 <kbd><img src="images/sausage_352.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the cover art for abbey road by the beatles where the 4 members of the band are crossing a zebra crossing"
+
+<kbd><img src="images/drawabbeyroadbeatles.png" /></kbd>
+
+<kbd><img src="images/sausage_353.jpg" /></kbd>
+
+<kbd><img src="images/sausage_354.jpg" /></kbd>
+
+<kbd><img src="images/sausage_355.jpg" /></kbd>
+
+<kbd><img src="images/sausage_356.jpg" /></kbd>
