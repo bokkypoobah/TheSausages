@@ -1386,3 +1386,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_359.jpg" /></kbd>
 
 <kbd><img src="images/sausage_360.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a pirate ship with the sails up, on an opensea in the early morning with gentle sunlight and calm waters. several short translucent sausages emanating a soft pink glow are hanging around on board the ship. emboss a small gold ethereum logo and GM to the main sail of the ship"
+
+<kbd><img src="images/drawethereumgmopensea.png" /></kbd>
+
+<kbd><img src="images/sausage_361.jpg" /></kbd>
+
+<kbd><img src="images/sausage_362.jpg" /></kbd>
+
+<kbd><img src="images/sausage_363.jpg" /></kbd>
+
+<kbd><img src="images/sausage_364.jpg" /></kbd>
