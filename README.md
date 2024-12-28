@@ -1402,3 +1402,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_363.jpg" /></kbd>
 
 <kbd><img src="images/sausage_364.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw salvator dali in the style of salvator dali. he is smiling while offering the viewer a small sausage held between pinched fingers , and looking towards this viewer. add melting clocks and strange animals in the background. the sausage is translucent, emanates a soft pink glow and has a small ethereum logo and gm embossed on it. make sure to add his iconic mustache"
+
+<kbd><img src="images/drawethereumgmsalvadordali.png" /></kbd>
+
+<kbd><img src="images/sausage_365.jpg" /></kbd>
+
+<kbd><img src="images/sausage_366.jpg" /></kbd>
+
+<kbd><img src="images/sausage_367.jpg" /></kbd>
+
+<kbd><img src="images/sausage_368.jpg" /></kbd>
