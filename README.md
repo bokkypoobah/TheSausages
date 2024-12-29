@@ -1418,3 +1418,35 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_367.jpg" /></kbd>
 
 <kbd><img src="images/sausage_368.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw a sausage wearing an expensive looking rolex watch to extrude an aura of success"
+
+<kbd><img src="images/drawethereumgmrolex.png" /></kbd>
+
+<kbd><img src="images/sausage_369.jpg" /></kbd>
+
+<kbd><img src="images/sausage_370.jpg" /></kbd>
+
+<kbd><img src="images/sausage_371.jpg" /></kbd>
+
+<kbd><img src="images/sausage_372.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene from Taken (2008) where Liam Neeson is speaking into his mobile phone held up to his ear in his left hand. intense look on his face. replace his mobile phone with a translucent sausage with a soft pink glow embossed with a tiny ethereum logo and GM in gold"
+
+<kbd><img src="images/drawethereumgmliamneeson.png" /></kbd>
+
+<kbd><img src="images/sausage_373.jpg" /></kbd>
+
+<kbd><img src="images/sausage_374.jpg" /></kbd>
+
+<kbd><img src="images/sausage_375.jpg" /></kbd>
+
+<kbd><img src="images/sausage_376.jpg" /></kbd>
