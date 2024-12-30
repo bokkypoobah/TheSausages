@@ -1450,3 +1450,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_375.jpg" /></kbd>
 
 <kbd><img src="images/sausage_376.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic darth vader pulling on a party popper, with exploding, projecting confetti and tiny translucent sausages with ethereum logos or GMs embossed. the tiny translucent sausages are emanating inner glows of different neon colours"
+
+<kbd><img src="images/drawethereumgmdarthvaderpartypoppers.png" /></kbd>
+
+<kbd><img src="images/sausage_377.jpg" /></kbd>
+
+<kbd><img src="images/sausage_378.jpg" /></kbd>
+
+<kbd><img src="images/sausage_379.jpg" /></kbd>
+
+<kbd><img src="images/sausage_380.jpg" /></kbd>
