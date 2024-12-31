@@ -1466,3 +1466,19 @@ Images and metadata for [The Sausages](https://opensea.io/collection/thesausages
 <kbd><img src="images/sausage_379.jpg" /></kbd>
 
 <kbd><img src="images/sausage_380.jpg" /></kbd>
+
+<br />
+
+<hr />
+
+##### "draw the iconic scene of mr bean in a restaurant presented with steak tartare. mr bean has a disgusted and confused look on his face. add a tiny translucent sausage emanating a soft neon pink inner glow beside the steak tartare, with a tiny ethereum logo and gm embossed"
+
+<kbd><img src="images/drawethereumgmmrbeansteaktartare.png" /></kbd>
+
+<kbd><img src="images/sausage_381.jpg" /></kbd>
+
+<kbd><img src="images/sausage_382.jpg" /></kbd>
+
+<kbd><img src="images/sausage_383.jpg" /></kbd>
+
+<kbd><img src="images/sausage_384.jpg" /></kbd>
